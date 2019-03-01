@@ -6,20 +6,24 @@
 ## Contents
 
 - [Section](#section)
-- [Another Section](#another-section)
+- [Blogs](#blogs)
 
+## Ideology / Concepts
+- [Rails Doctrine](https://rubyonrails.org/doctrine/)
 
+<!--
 ## Section
 
 About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
-- [List item](http://example.com)
+- [List item](http://example.com) -->
 
+## Podcasts
 
-## Another Section
+- [Syntax](https://syntax.fm)
 
-### Blogs
+## Blogs
 
 - [Dev.To](https://dev.to/)
 
