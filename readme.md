@@ -5,11 +5,13 @@
 
 ## Contents
 
-- [Section](#section)
+- [Programming Concepts](#programming-concepts)
 - [Blogs](#blogs)
+- [Podcasts](#podcasts)
 
-## Ideology / Concepts
+## Programming Concepts
 - [Rails Doctrine](https://rubyonrails.org/doctrine/)
+- [Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
 
 <!--
 ## Section
@@ -19,13 +21,19 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 - [List item](http://example.com) -->
 
+## Blogs
+
+- [Dev.To](https://dev.to/)
+
+## Courses
+
+- [Upcase](https://thoughtbot.com/upcase/)
+- [Wes Bos](https://wesbos.com/courses/)
+
 ## Podcasts
 
 - [Syntax](https://syntax.fm)
 
-## Blogs
-
-- [Dev.To](https://dev.to/)
 
 ## Contribute
 
