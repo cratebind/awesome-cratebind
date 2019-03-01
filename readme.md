@@ -8,32 +8,26 @@
 - [Programming Concepts](#programming-concepts)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
+- [Developers To Follow](#developers-to-follow)
 
 ## Programming Concepts
 - [Rails Doctrine](https://rubyonrails.org/doctrine/)
 - [Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
 
-<!--
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com) -->
-
 ## Blogs
-
 - [Dev.To](https://dev.to/)
 
 ## Courses
-
 - [Upcase](https://thoughtbot.com/upcase/)
 - [Wes Bos](https://wesbos.com/courses/)
 
 ## Podcasts
-
 - [Syntax](https://syntax.fm)
 
+## Developers To Follow
+- React:
+  - [Dan Abramov](https://twitter.com/dan_abramov/)
+- Ruby / Rails
 
 ## Contribute
 
