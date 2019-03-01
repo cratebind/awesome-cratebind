@@ -19,11 +19,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Another Section
 
-### Subsection
+### Blogs
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Dev.To](https://dev.to/)
 
 ## Contribute
 
