@@ -21,6 +21,10 @@
 - [Upcase](https://thoughtbot.com/upcase/)
 - [Wes Bos](https://wesbos.com/courses/)
 
+## Reference Guides
+- [CSS Tricks](https://css-tricks.com/)
+- [Dev Hints](https://devhints.io/)
+
 ## Podcasts
 - [Syntax](https://syntax.fm)
 
