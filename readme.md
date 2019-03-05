@@ -8,6 +8,7 @@
 - [Programming Concepts](#programming-concepts)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
+- [Books](#books)
 - [Developers To Follow](#developers-to-follow)
 
 ## Programming Concepts
@@ -16,22 +17,37 @@
 
 ## Blogs
 - [Dev.To](https://dev.to/)
+- [Coding Horror](https://blog.codinghorror.com/)
 
 ## Courses
 - [Upcase](https://thoughtbot.com/upcase/)
 - [Wes Bos](https://wesbos.com/courses/)
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter)
 
 ## Reference Guides
 - [CSS Tricks](https://css-tricks.com/)
 - [Dev Hints](https://devhints.io/)
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
+- [APIdock](https://apidock.com/)
 
 ## Podcasts
 - [Syntax](https://syntax.fm)
+- [Ruby Rouges](https://devchat.tv/ruby-rogues/)
+- [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
+
+## Books
+- [The Rails 5 Way](https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0134657675)
+- [Effective Testing with RSpec 3](https://www.amazon.com/Effective-Testing-RSpec-Build-Confidence/dp/1680501984)
 
 ## Developers To Follow
 - React:
   - [Dan Abramov](https://twitter.com/dan_abramov/)
-- Ruby / Rails
+- Ruby:
+  - [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz)
+  - [Avdi Grimm](https://twitter.com/avdi)
+- Rails:
+  - [David Heinemeier Hansson](https://twitter.com/dhh)
 
 ## Contribute
 
