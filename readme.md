@@ -44,6 +44,7 @@
 - React:
   - [Dan Abramov](https://twitter.com/dan_abramov/)
 - Ruby:
+  - [Aaron Patterson](https://twitter.com/tenderlove)
   - [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz)
   - [Avdi Grimm](https://twitter.com/avdi)
 - Rails:
