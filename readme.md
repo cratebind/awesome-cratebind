@@ -37,8 +37,11 @@
 - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 
 ## Books
+- [Confident Ruby](http://www.confidentruby.com/)
+- [Exceptional Ruby](http://exceptionalruby.com/)
 - [The Rails 5 Way](https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0134657675)
 - [Effective Testing with RSpec 3](https://www.amazon.com/Effective-Testing-RSpec-Build-Confidence/dp/1680501984)
+
 
 ## Developers To Follow
 - React:
