@@ -18,6 +18,7 @@
 ## Blogs
 - [Dev.To](https://dev.to/)
 - [Coding Horror](https://blog.codinghorror.com/)
+- [Over Reacted](https://overreacted.io/)
 
 ## Courses
 - [Upcase](https://thoughtbot.com/upcase/)
