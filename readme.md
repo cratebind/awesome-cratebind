@@ -6,6 +6,7 @@
 ## Contents
 
 - [Programming Concepts](#programming-concepts)
+- [Tools and Software](#tools-and-software)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
 - [Developers To Follow](#developers-to-follow)
@@ -13,6 +14,14 @@
 ## Programming Concepts
 - [Rails Doctrine](https://rubyonrails.org/doctrine/)
 - [Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
+
+## Tools and Software
+
+### Workflow / Automation Apps
+- [Alfred](https://www.alfredapp.com/) - Launch bar and automation tool
+
+### Text Editor Features and Extensions
+- [VS Code Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) - Powerful syntax for creating snippets for commonly used pieces of code
 
 ## Blogs
 - [Dev.To](https://dev.to/)
