@@ -18,6 +18,13 @@
 
 ## Tools and Software
 
+### MacOS Apps
+- [Itsycal](https://www.mowglii.com/itsycal/)
+- [iStat Menu 6](https://bjango.com/mac/istatmenus/)
+- [GitX](http://gitx.frim.nl/)
+- [Shortcat](https://shortcatapp.com/)
+- [Amethyst](https://ianyh.com/amethyst/)
+
 ### Workflow / Automation Apps
 - [Alfred](https://www.alfredapp.com/) - Launch bar and automation tool
 
