@@ -8,6 +8,8 @@
 - [Programming Concepts](#programming-concepts)
 - [Tools and Software](#tools-and-software)
 - [Blogs](#blogs)
+- [Courses](#courses)
+- [Reference Guides](#reference-guides)
 - [Podcasts](#podcasts)
 - [Books](#books)
 - [Developers To Follow](#developers-to-follow)
