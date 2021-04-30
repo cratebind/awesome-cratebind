@@ -41,12 +41,15 @@
 - [Wes Bos](https://wesbos.com/courses/)
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter)
+- [Drifting Ruby (Screencasts)](https://www.driftingruby.com/)
+- [Go Rails (Screencasts)](https://gorails.com/)
 
 ## Reference Guides
 - [CSS Tricks](https://css-tricks.com/)
 - [Dev Hints](https://devhints.io/)
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
 - [APIdock](https://apidock.com/)
+- [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 
 ## Podcasts
 - [Syntax](https://syntax.fm)
